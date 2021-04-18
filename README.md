@@ -1,4 +1,4 @@
-﻿# NEWS
+﻿# React News Search Engine
 
 ***
 
